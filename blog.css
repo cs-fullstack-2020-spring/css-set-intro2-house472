@@ -1,0 +1,17 @@
+h2{
+    font-size: xx-large;
+}
+.date{
+    color: blue;
+}
+.quote{
+    border-left: blue solid 5px;
+    padding: 1%;
+}
+body{
+    border: solid blue 10px;
+    padding: 1%;
+}
+html{
+    padding: 5%;
+}
